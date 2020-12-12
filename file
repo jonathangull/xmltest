@@ -3,11 +3,11 @@
     <channel>
         <title>Market Setu Seller for All Shops- Sell Online fast</title>
         <item>
-            <title>Version 1.0.5</title>
+            <title>Version 1.0.6</title>
             <description>Market setu seller app</description>
             <pubDate>Thu, 10 Dec 2020 09:46:00 +0000</pubDate>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
-            <enclosure url="https://play.google.com/store/apps/details?id=com.accelnomics.localmarket_seller" sparkle:version="1.0.5" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.accelnomics.localmarket_seller" sparkle:version="1.0.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
